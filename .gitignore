@@ -4,5 +4,7 @@
 /MANIFEST
 /.coverage
 /data/
+data
+figures
+.ipynb_checkpoints/
 /build/
-/.ipynb_checkpoints/
